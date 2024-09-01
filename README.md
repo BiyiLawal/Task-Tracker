@@ -6,6 +6,8 @@
 
 Welcome to the Task Tracker CLI! This project is a simple, yet powerful command-line tool designed to help you manage your tasks efficiently. Whether you’re juggling multiple projects or just need to keep track of your daily to-dos, this CLI app has got you covered. It’s built entirely with Node.js, using native modules, so you can focus on managing tasks without worrying about unnecessary dependencies.
 
+I got the project idea from [roadmap](roadmap.sh) and you can find the project [here](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 
 - **Add New Tasks**: Quickly add tasks with a short description.
